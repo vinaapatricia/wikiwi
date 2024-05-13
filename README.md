@@ -4,15 +4,15 @@ Wikiwi is a powerful mobile application designed to assist you in achieving your
 
 ## Features
 
-- **Nutrition Information:** 
-- **Food Tracking:** 
-- **Healthy Recipes:**
+- Nutrition Information
+- Food Tracking
+- Healthy Recipes
 
 ## Benefits
 
-- **Enhance Your Overall Health:** 
-- **Manage Specific Medical Conditions:** 
-- **Adopt a Healthy Lifestyle:** 
+- Enhance Your Overall Health
+- Manage Specific Medical Conditions
+- Adopt a Healthy Lifestyle
 
 ## Reference Journal
 
