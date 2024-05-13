@@ -24,13 +24,13 @@ Wikiwi is a powerful mobile application designed to assist you in achieving your
 6. [Expanding the Capabilities of Nutrition Research and Health Promotion Through Mobile-Based Applications - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2161831322001284)
 7. [Mengoptimalkan Asupan Zat Gizi sebagai Upaya Preventif dalam Mengatasi Masalah Kesehatan Mental](https://e-journal.unair.ac.id/MGK/article/view/33925)
 8. [Gambaran Status Gizi dan Kejadian Common Mental Disorders pada Mahasiswa Gizi Fakultas Kesehatan Masyarakat Universitas Hasanuddin](http://repository.unhas.ac.id/id/eprint/2075/)
-9. [Usability of a web-based personal nutrition management tool](https://doi.org/10.3109/17538157.2011.553296)
-10. [Food Technological Applications for Optimal Nutrition: An Overview of Opportunities for the Food Industry](https://doi.org/10.1111/j.1541-4337.2011.00167.x)
+9. [Ginger from Farmyard to Town: Nutritional and Pharmacological Applications](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.779352/full)
+10. [Toward the Definition of Personalized Nutrition: A Proposal by The American Nutrition Association](https://doi.org/10.1080/07315724.2019.1685332)
 
 
 ## Connect With Us
 
 - **Website:** [Visit our application](https://example.com/)
-- **YouTube:** [Watch our videos](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+- **Instagram Reels:** [Watch our videos](https://www.instagram.com/reel/C66MvcNShL_/?igsh=MXF0ajBwaTZoOXlmaA==)
 
 Join us at Wikiwi to make a positive change in your health and wellness!
