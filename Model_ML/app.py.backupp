@@ -1,0 +1,14 @@
+import h5py
+
+def get_tensorflow_version_from_keras(h5):
+    with h5py.File(h5, 'r') as f:
+        # Check if 'keras_version' attribute exists
+        if 'keras_version' in f.attrs:
+            keras_version = f.attrs['keras_version']
+            if keras_version == b'2.12.0':
+                return "TensorFlow version likely 2.12.x"
+            else:
+                return f"Keras version is {keras_version.encode('utf-8')}, check corresponding TensorFlow version."
+        return "No Keras version found"
+
+print(get_tensorflow_version_from_keras('model_karbo.h5'))
