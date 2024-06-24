@@ -33,6 +33,7 @@ def load_recipe_data():
 
 def transform_image(img):
     img = img.resize((150, 150))
+    img = img.convert('RGB')
     img = img_to_array(img)
     img = img.astype(np.float32) / 255
     img = np.expand_dims(img, axis=0)
