@@ -2,8 +2,48 @@
 
 Wikiwi is a powerful mobile application designed to assist you in achieving your health and wellness goals by providing detailed nutrition information, food tracking capabilities, and personalized diet recommendations. Whether you're looking to manage your weight, improve your health, or accommodate specific dietary needs due to medical conditions, Wikiwi is your go-to app.
 
+Wikiwi is a project aimed at calculating and managing the nutritional content of foods using Convolutional Neural Network (CNN) methods. This project helps individuals understand and manage their daily nutritional intake, especially focusing on fruits. Utilizing advanced machine learning techniques and tools, Wikiwi offers features such as fruit detection through images, recipe recommendations, and a nutrition calculator.
+
+## Our Team 🤝 🧑‍💻 👩‍💻 🚀
+
+| No. | Name                   | NIM        |
+| --- | ---------------------- | ---------- |
+| 1.  | Rizqi Ilham Siregar    |            |
+| 2.  | Vina Patricia          | 1217050139 |
+| 3.  | Yandiyan               | 1217050144 |
+| 4.  | Zuhad Harkasy Al-Hikam | 1217050148 |
+
 ## Our Proposal
 [Wikiwi Proposal](https://github.com/user-attachments/files/15743552/Wikiwi.pdf)
+
+## Overview
+
+Wikiwi aims to provide an accessible tool to calculate the nutritional content of foods using image recognition and classification. This project is not only essential for daily nutritional management but also contributes to public health by helping people control their nutritional intake.
+
+## Summary
+
+Wikiwi is a web application designed to help users calculate and manage their nutritional intake. By leveraging AI and CNN methods, Wikiwi identifies the type of fruit and its nutritional content through image recognition. Additionally, the application offers recipe recommendations and a nutrition calculator, contributing to a balanced and healthy diet.
+
+## Teaser Video Preview
+
+Get a sneak peek of our project with our teaser video [here](https://www.instagram.com/)!
+
+## Built With 🛠️ 📚 🔧
+
+### Machine Learning
+
+- **Google Colab** - Development environment
+- **TensorFlow** - Machine learning framework
+- **Keras** - High-level neural networks API
+- **Matplotlib** - Plotting library for visualization
+- **Google Drive** - Storage for datasets and models
+
+### Web Development
+
+- **Flask** - Python web framework for backend development
+- **Google Cloud Storage (GCS)** - Cloud object storage service
+- **Cloud Run** - Serverless execution environment for containers
+
 
 ## Features
 
