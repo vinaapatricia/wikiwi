@@ -28,7 +28,43 @@ Wikiwi is a web application designed to help users calculate and manage their nu
 
 Get a sneak peek of our project with our teaser video [here](https://www.instagram.com/)!
 
-## Built With 🛠️ 📚 🔧
+## Methodology
+
+### Dataset Collection
+
+The dataset used consists of 5460 images of fruits obtained from Google Images using web scraping techniques. This data includes 26 types of fruits with good nutritional content.
+
+### Data Preprocessing
+
+- **Dataset Split**: The dataset is divided into training data (70%), validation data (15%), and test data (15%).
+- **Image Augmentation**: Applied techniques such as cropping, rotating, and filtering.
+- **Resizing**: Images are resized to 48x48 pixels.
+- **Grayscale Conversion**: Images are converted to grayscale.
+- **Thresholding**: Grayscale images are converted to binary images.
+
+### Convolutional Neural Network (CNN) Architecture
+
+The CNN model uses transfer learning techniques by leveraging the Xception model from TensorFlow Keras library. The model architecture includes the Xception base model and several custom layers tailored for the task of classifying fruit nutritional content.
+
+### Evaluation and Testing
+
+Evaluation is conducted using a confusion matrix to calculate metrics such as True Positive (TP), True Negative (TN), False Positive (FP), and False Negative (FN). Accuracy, precision, recall, and F1-score are calculated to evaluate the model's performance.
+
+## Implementation and Usage
+
+Wikiwi features several key functions, including:
+
+- **Fruit Detection** using the camera or image uploads to detect the type of fruit and its nutritional content.
+- **Recipe Recommendations** providing recipe ideas based on the type of fruit the user has.
+- **Nutrition Calculator** calculating and displaying the nutritional content of consumed fruits.
+
+## Key Features
+
+- **Fruit Detection** with CNN method
+- **Recipe Recommendations** based on the type of fruit the user has
+- **Nutrition Calculator** to track and manage daily nutritional intake
+
+## Built With
 
 ### Machine Learning
 
