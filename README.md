@@ -114,4 +114,27 @@ Wikiwi features several key functions, including:
 - **Website:** [Visit our application](https://example.com/)
 - **Instagram Reels:** [Watch our videos](https://www.instagram.com/reel/C66MvcNShL_/?igsh=MXF0ajBwaTZoOXlmaA==)
 
+## Preview
+| Signup | Forget Password |
+|--------|-----------------|
+| ![Signup](https://github.com/user-attachments/assets/6a050469-f8f0-4753-a343-6a13a1339928) | ![Forget Password](https://github.com/user-attachments/assets/c382fd81-f013-4649-a5b1-b3c178e3bca7) |
+
+| Login | Dashboard |
+|-------|-----------|
+| ![Login](https://github.com/user-attachments/assets/66085ddf-955a-46ce-9d86-6ee73872e6a6) | ![Dashboard](https://github.com/user-attachments/assets/a96ee4b7-2abd-484c-b335-3372499d90d5) |
+
+| ML Feature | Input Form |
+|------------|------------|
+| ![ML Feature](https://github.com/user-attachments/assets/77dac5ce-d3dc-4e4c-a5a6-34d67acabb58) | ![Input Form](https://github.com/user-attachments/assets/7c6a031b-e2f7-4edc-8da9-030ae8af2945) |
+
+| Recipe Detail | Recipe |
+|---------------|--------|
+| ![Recipe Detail](https://github.com/user-attachments/assets/018dacac-4b3c-4cce-95bc-aadccabb6874) | ![Recipe](https://github.com/user-attachments/assets/ad75e0fa-205c-40b8-8e1e-6c93d251884e) |
+
+| 404 Page Not Found (login) |
+|---------------------------|
+| ![404 Page Not Found (login)](https://github.com/user-attachments/assets/fa0d7aab-410b-4603-af4d-fd368e834a21) |
+
+
+
 Join us at Wikiwi to make a positive change in your health and wellness!
