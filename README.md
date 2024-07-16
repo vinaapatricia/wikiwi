@@ -1,3 +1,5 @@
+
+![preview](https://github.com/user-attachments/assets/6206e5ce-0e13-4e81-96a5-37ed009adba4)
 # Wikiwi: Your Personal Nutrition Management App
 
 Wikiwi is a powerful mobile application designed to assist you in achieving your health and wellness goals by providing detailed nutrition information, food tracking capabilities, and personalized diet recommendations. Whether you're looking to manage your weight, improve your health, or accommodate specific dietary needs due to medical conditions, Wikiwi is your go-to app.
